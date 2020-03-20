@@ -1,0 +1,13 @@
+TASK ONE
+==================
+NAME : ANDREW OSABUEDE GABRIEL
+
+EMAIL : buedgabby@gmail.com
+
+SLACK-USERNAME : Andrew Osabuede Gabriel
+
+TRACK : BACKEND
+
+COURSE : PYTHON
+
+BORROWED-COURSES : HTML-CSS-JAVASCRIPT.
